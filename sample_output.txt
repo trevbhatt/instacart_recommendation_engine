@@ -1,0 +1,156 @@
+
+Time-based suggestions for bananas, day: 0 hour: 15
+      product_id                                       product_name
+7911        38544  Organic Whole Milk Strawberry Beet Berry Yogur...
+7800        39657                             Milk Chocolate Almonds
+9838        22362                      Original Rice Krispies Treats
+7223        44580                                      Baby Bok Choy
+11535        7533  Low-Fat Strawberry Banana on the Bottom Greek ...
+8128        36472                        Nutri Grain Bars Multi Pack
+11343        9292                    Half And Half Ultra Pasteurized
+10561       16291             Organic Extra Large Brown Omega 3 Eggs
+8615        32573                                     Pretzel Sticks
+11702        6052                        Eggo Chocolate Chip Waffles
+
+Similar suggestions for bananas
+   product_id                 product_name
+1        24838       Unsweetened Almondmilk
+2        47209         Organic Hass Avocado
+3        27086                  Half & Half
+4        34243        Organic Baby Broccoli
+5        39475  Total Greek Strained Yogurt
+6        16249             Lacinato Kale Og
+7         2108                Pastured Eggs
+8        39275          Organic Blueberries
+9        23909          2% Reduced Fat Milk
+10        1463                 Organic Milk
+
+Combined suggestions for bananas, day: 0 hour: 15
+      product_id                                       product_name
+8786        38544  Organic Whole Milk Strawberry Beet Berry Yogur...
+8664        39657                             Milk Chocolate Almonds
+10796       22362                      Original Rice Krispies Treats
+8086        44580                                      Baby Bok Choy
+9016        36472                        Nutri Grain Bars Multi Pack
+12401        9292                    Half And Half Ultra Pasteurized
+11569       16291             Organic Extra Large Brown Omega 3 Eggs
+12782        6052                        Eggo Chocolate Chip Waffles
+5286        46061                                            Popcorn
+8177        43739                                   Variety Diet Tea
+
+Time-based suggestions for strawberries, day: 5 hour: 10
+      product_id                                       product_name
+9707         9595                     Organic Homestyle Mini Waffles
+6589        38313                   Organic Apple Banana GoGo Squeez
+7047        34128                                           Tzatziki
+9403        12756                               Multigrain Oat Bread
+10690         605  Natural Liquid Laundry Detergent - Blue Eucaly...
+9279        13877                                      Smoked Salmon
+8612        20113    Organic Gluten Free Buckwheat Wildberry Waffles
+10622        1263                    American Cheese Slices 12 Count
+5926        44303               Organic Shredded Unsweetened Coconut
+7714        28058            Gluten Free Sliced Mountain White Bread
+
+Similar suggestions for strawberries
+   product_id            product_name
+1        24852                  Banana
+2        13176  Bag of Organic Bananas
+3        47766         Organic Avocado
+4        21903    Organic Baby Spinach
+5        43352             Raspberries
+6        47626             Large Lemon
+7         4920     Seedless Red Grapes
+8        39275     Organic Blueberries
+9         9076             Blueberries
+10       49683          Cucumber Kirby
+
+Combined suggestions for strawberries, day: 5 hour: 10
+      product_id                                product_name
+14635       42579                       Organic Pitted Prunes
+19511        7120         Organic Whole Wheat Sourdough Bread
+14766       41651                            Diet Orange Soda
+13851       48357                            Green Split Peas
+16941       25948  Peppermint In Dark Chocolate Bar 55% Cocoa
+11378       37538                           Organic Sweet Pea
+19485        7381          Dark Chocolate Frozen Dessert bars
+20449         554                                Turkey Chili
+14179       45970   Organic Black Beans Ready To Eat In Pouch
+18154       17131                  Cold-Pressed Organic Apple
+
+Time-based suggestions for chicken, day: 6 hour: 19
+     product_id                         product_name
+3852       38928             0% Greek Strained Yogurt
+6074       13575                               Apples
+3954       37710                            Trail Mix
+5458       20738                         Plain Bagels
+4421       32303                  Red Seedless Grapes
+6669        6532  Organic YoKids Very Berry Smoothies
+4634       29926             Roasted & Salted Almonds
+6229       11759      Organic Simply Naked Pita Chips
+5758       17224     Oats & Honey Gluten Free Granola
+1126        6184                          Clementines
+
+Similar suggestions for chicken
+   product_id                                       product_name
+1        14146                                 Sliced Wheat Bread
+2        36186                        Large Grade AA Organic Eggs
+3        21187            Classic Macaroni & Beef in Tomato Sauce
+4        44548                              Barbecue Potato Chips
+5        37991                                 8 Inch Pumpkin Pie
+6        24852                                             Banana
+7        19348                                      Fat Free Milk
+8        15125  Tender white meat turkey & stuffing in a homes...
+9        46706        Goober Grape Peanut Butter and Jelly Spread
+10       44384                               Honey Roasted Turkey
+
+Combined suggestions for chicken, day: 6 hour: 19
+     product_id                         product_name
+3906       38928             0% Greek Strained Yogurt
+6139       13575                               Apples
+4008       37710                            Trail Mix
+5522       20738                         Plain Bagels
+4476       32303                  Red Seedless Grapes
+6751        6532  Organic YoKids Very Berry Smoothies
+6300       11759      Organic Simply Naked Pita Chips
+4693       29926             Roasted & Salted Almonds
+5824       17224     Oats & Honey Gluten Free Granola
+1136        6184                          Clementines
+
+Time-based suggestions for milk, day: 3 hour: 0
+     product_id                                       product_name
+965        35221                               Lime Sparkling Water
+1025       33198                    Sparkling Natural Mineral Water
+1009       33731                                    Grated Parmesan
+724        42736                                    Unsalted Butter
+770        41220                            Organic Romaine Lettuce
+1008       33754  Total 2% with Strawberry Lowfat Greek Strained...
+169        28204                                 Organic Fuji Apple
+1812        8193                                      Russet Potato
+597        46676                       Total 0% Nonfat Greek Yogurt
+2019        2295                                 Yellow Bell Pepper
+
+Similar suggestions for milk
+   product_id            product_name
+1        13176  Bag of Organic Bananas
+2        27966     Organic Raspberries
+3        47626             Large Lemon
+4        48370  Sensitive Toilet Paper
+5        46979               Asparagus
+7        49235     Organic Half & Half
+8        47209    Organic Hass Avocado
+9        39928            Organic Kiwi
+10       26209                   Limes
+11       24852                  Banana
+
+Combined suggestions for milk, day: 3 hour: 0
+     product_id                       product_name
+1188       41220            Organic Romaine Lettuce
+965        46676       Total 0% Nonfat Greek Yogurt
+1322       38293               Ground Turkey Breast
+654        25890  Boneless Skinless Chicken Breasts
+1540       32655  Organic Large Grade AA Brown Eggs
+574        35221               Lime Sparkling Water
+354        27086                        Half & Half
+1085       43768                Organic Bell Pepper
+1037       44910           Organic Spring Mix Salad
+953        46969                  Organic Bosc Pear
