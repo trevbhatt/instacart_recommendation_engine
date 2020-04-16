@@ -2,7 +2,7 @@
 
 A sample recommendation engine using to SQL and Python to generate recommendations based on items bought at the same time and/or similar items.
 
-Built as a proof of concept for different recommendation engine typesat
+Built as a proof of concept for different recommendation engine types.
 
 ## Usage
 Import the recommendation.py file to run individual commands or run script.py for a sample of a few different items.
